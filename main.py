@@ -20,5 +20,5 @@ for word in words:
         wordDict[word] += 1
     else:
         wordDict[word] = 1
-# the number of items in the words array gives the word count of the file
+# print wordDict to print the results
 print(wordDict)
